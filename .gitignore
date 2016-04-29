@@ -1,0 +1,2 @@
+node_modules/
+On ne souhaite rien modifier dans le repertoire node_modules c'est ce qui explique le fait qu'on le place dans ce repertoire .gitignore
