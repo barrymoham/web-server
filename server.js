@@ -24,7 +24,7 @@ var middleware={
 
 // A propos
 app.get('/about',middleware.requiredAuthentification,function(req,res){ // une function présenter comme ci est une fonction anonyme
-   res.send('About en action');
+   res.send('About en action!');
 });
 // A propos de nous
 /* app.get('/about us',function(req,res)
